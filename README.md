@@ -49,7 +49,6 @@ src/
     └── __tests__/         # Utility tests
 ```
 
-
 ## Key Features Implementation
 
 ### 1. Custom Hooks for Voting Logic
